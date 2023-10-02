@@ -1,0 +1,72 @@
+2023-09-19 21:34:57 DEBUG TelegramBot:30 - /start
+2023-09-19 21:41:12 DEBUG TelegramBot:32 - /start
+2023-09-19 21:49:29 DEBUG TelegramBot:34 - /start
+2023-09-19 21:49:29 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 21:51:04 DEBUG TelegramBot:34 - /start
+2023-09-19 21:51:04 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:05:49 DEBUG TelegramBot:34 - /start
+2023-09-19 22:05:49 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:06:22 DEBUG TelegramBot:34 - Чаво
+2023-09-19 22:06:22 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:13:46 DEBUG TelegramBot:34 - /start
+2023-09-19 22:13:46 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:13:50 DEBUG TelegramBot:34 - /start
+2023-09-19 22:13:50 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:13:51 DEBUG TelegramBot:34 - /start
+2023-09-19 22:13:51 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:13:52 DEBUG TelegramBot:34 - /start
+2023-09-19 22:13:52 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:15:56 DEBUG TelegramBot:34 - /start
+2023-09-19 22:15:56 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:16:26 DEBUG TelegramBot:34 - /start
+2023-09-19 22:16:26 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:16:26 DEBUG TelegramBot:34 - /start
+2023-09-19 22:16:26 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:16:26 DEBUG TelegramBot:34 - Ну
+2023-09-19 22:16:26 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:16:43 DEBUG TelegramBot:34 - Салам алейкум
+2023-09-19 22:16:43 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:16:44 DEBUG TelegramBot:34 - Ебанарот
+2023-09-19 22:16:44 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:16:53 DEBUG TelegramBot:34 - Пидарасина
+2023-09-19 22:16:53 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:17:00 DEBUG TelegramBot:34 - /index
+2023-09-19 22:17:00 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:17:10 DEBUG TelegramBot:34 - Insert
+2023-09-19 22:17:10 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:17:35 DEBUG TelegramBot:34 - @sobakaSutulay
+2023-09-19 22:17:36 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:18:51 DEBUG TelegramBot:34 - /start
+2023-09-19 22:18:51 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:19:14 DEBUG TelegramBot:34 - Смысле не готово
+2023-09-19 22:19:15 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:20:12 DEBUG TelegramBot:34 - /start
+2023-09-19 22:20:12 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:20:15 DEBUG TelegramBot:34 - /start
+2023-09-19 22:20:15 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:20:17 DEBUG TelegramBot:34 - /start
+2023-09-19 22:20:17 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 22:20:24 DEBUG TelegramBot:34 - 
+2023-09-19 22:20:24 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 23:33:39 DEBUG TelegramBot:34 - Лох
+2023-09-19 23:33:40 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 23:33:40 DEBUG TelegramBot:34 - Пидр
+2023-09-19 23:33:40 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-19 23:33:57 DEBUG TelegramBot:34 - 
+2023-09-19 23:33:57 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-09-21 22:07:30 DEBUG TelegramBot:34 - /start
+2023-09-21 22:07:30 ERROR TelegramBot:49 - org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Unable to deserialize response
+2023-10-02 00:57:01 DEBUG UpdateProducerImpl:14 - I
+2023-10-02 00:58:44 ERROR UpdateController:39 - Received unsupported message typeUpdate(updateId=699307401, message=null, inlineQuery=null, chosenInlineQuery=null, callbackQuery=null, editedMessage=Message(messageId=57, from=User(id=451864671, firstName=Роберт, isBot=false, lastName=null, userName=rob1ink, languageCode=ru, canJoinGroups=null, canReadAllGroupMessages=null, supportInlineQueries=null, isPremium=null, addedToAttachmentMenu=null), date=1696197421, chat=Chat(id=451864671, type=private, title=null, firstName=Роберт, lastName=null, userName=rob1ink, photo=null, description=null, inviteLink=null, pinnedMessage=null, stickerSetName=null, canSetStickerSet=null, permissions=null, slowModeDelay=null, bio=null, linkedChatId=null, location=null, messageAutoDeleteTime=null, hasPrivateForwards=null, HasProtectedContent=null, joinToSendMessages=null, joinByRequest=null), forwardFrom=null, forwardFromChat=null, forwardDate=null, text=Ids, entities=null, captionEntities=null, audio=null, document=null, photo=null, sticker=null, video=null, contact=null, location=null, venue=null, animation=null, pinnedMessage=null, newChatMembers=[], leftChatMember=null, newChatTitle=null, newChatPhoto=null, deleteChatPhoto=null, groupchatCreated=null, replyToMessage=null, voice=null, caption=null, superGroupCreated=null, channelChatCreated=null, migrateToChatId=null, migrateFromChatId=null, editDate=1696197524, game=null, forwardFromMessageId=null, invoice=null, successfulPayment=null, videoNote=null, authorSignature=null, forwardSignature=null, mediaGroupId=null, connectedWebsite=null, passportData=null, forwardSenderName=null, poll=null, replyMarkup=null, dice=null, viaBot=null, senderChat=null, proximityAlertTriggered=null, messageAutoDeleteTimerChanged=null, isAutomaticForward=null, hasProtectedContent=null, webAppData=null, videoChatStarted=null, videoChatEnded=null, videoChatParticipantsInvited=null, videoChatScheduled=null), channelPost=null, editedChannelPost=null, shippingQuery=null, preCheckoutQuery=null, poll=null, pollAnswer=null, myChatMember=null, chatMember=null, chatJoinRequest=null)
+2023-10-02 00:59:05 DEBUG UpdateProducerImpl:14 - 
+2023-10-02 00:59:38 DEBUG UpdateProducerImpl:14 - A
+2023-10-02 01:00:05 DEBUG UpdateProducerImpl:14 - 
+2023-10-02 01:03:58 DEBUG UpdateProducerImpl:14 - 
+2023-10-02 01:06:17 DEBUG UpdateProducerImpl:14 - 
+2023-10-02 01:07:23 DEBUG UpdateProducerImpl:14 - 
+2023-10-02 01:07:23 DEBUG UpdateProducerImpl:14 - P
+2023-10-02 01:08:53 DEBUG UpdateProducerImpl:14 - F
+2023-10-02 01:08:53 DEBUG UpdateProducerImpl:14 - F
+2023-10-02 01:08:53 DEBUG UpdateProducerImpl:14 - F
+2023-10-02 01:10:57 DEBUG UpdateProducerImpl:14 - F
+2023-10-02 01:10:58 DEBUG UpdateProducerImpl:14 - H
